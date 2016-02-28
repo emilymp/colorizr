@@ -7,8 +7,8 @@ This Gem will alter the color of strings printed in the terminal.
 ####How To Use It
 The following methods can be called on String objects:
 * red
-*  green
-*yello
+* green
+* yello
 * blue
 * pink
 * light_blue
