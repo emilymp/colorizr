@@ -45,7 +45,7 @@ This is black
 ```
 ####How to Install
 ```ruby
-gem install colorizr-0.0.2
+gem install colorizr-0.0.1
 ```
 
 
