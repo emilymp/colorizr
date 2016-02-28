@@ -6,15 +6,15 @@ This Gem will alter the color of strings printed in the terminal.
 
 ####How To Use It
 The following methods can be called on String objects:
-*red
-*green
+* red
+*  green
 *yello
-*blue
-*pink
-*light_blue
-*white
-*light_grey
-*black
+* blue
+* pink
+* light_blue
+* white
+* light_grey
+* black
 
 ######For Example
 ```ruby
@@ -25,8 +25,8 @@ puts "Ringo".yellow
 ```
 
 The following methods can be called on the String class:
-*sample_colors
-*colors
+* sample_colors
+* colors
 
 ```ruby
 p String.colors
