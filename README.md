@@ -44,9 +44,9 @@ This is light_grey
 This is black
 ```
 ####How to Install
-```ruby
-gem install colorizr-0.0.1
-```
+
+coming soon
+
 
 
 
